@@ -1,6 +1,6 @@
 {
   "name": "sxunco-custom-card-view",
-  "version": "0.2.0.1",
+  "version": "0.0.1",
   "description": "React native credit card input component - customized for Sxunco Estrategio Project",
   "main": "index.js",
   "scripts": {
@@ -26,12 +26,8 @@
     "react-component",
     "react-native-component"
   ],
-  "author": "sbycrosz",
+  "author": "karlolm",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/lexor90/react-native-credit-card-input/issues"
-  },
-  "homepage": "https://github.com/lexor90/react-native-credit-card-input#readme",
   "dependencies": {
     "card-validator": "^2.2.0",
     "react-native-flip-card": "^3.3.0",
