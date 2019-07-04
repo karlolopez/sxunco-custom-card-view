@@ -43,7 +43,7 @@ const s = StyleSheet.create({
     left: 28,
   },
   name: {
-    fontSize: 14,
+    fontSize: 16,
     position: "absolute",
     bottom: 20,
     left: 25,
@@ -97,7 +97,7 @@ export default class CardView extends Component {
     name: "",
     placeholder: {
       number: "•••• •••• •••• ••••",
-      name: "NOMBRE COMO EN TARJETA",
+      name: "NOMBRE TÍTULAR",
       expiry: "••/••",
       cvc: "•••",
     },
